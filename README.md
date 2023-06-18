@@ -42,6 +42,4 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/Yashd07/Yashd07/output/snake.svg](https://i.gifer.com/NxfN.gif)" alt="animation" />
-
 ###
