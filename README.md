@@ -8,9 +8,8 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashd07&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Yashd07a&show_icons=true&theme=merko)
 [![](https://streak-stats.demolab.com?user=Yashd07&theme=merko)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Yashd07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yashd07&theme=dark&no-frame=false&no-bg=true&margin-w=4)
