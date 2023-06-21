@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashd07&theme=merko"  />
+  <img src="![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashd07&theme=merko"  />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashd07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
