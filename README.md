@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yashd07&theme=merko)<br/>
 ![](https://streak-stats.demolab.com?user=Yashd07&theme=merko)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Yashd07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko")
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Yashd07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yashd07&theme=dark&no-frame=false&no-bg=true&margin-w=4)
