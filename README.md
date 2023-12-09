@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning ReactJs,Redux and UI/UX<br><br>👋 I’m Front-end developer from India.<br><br>📫 Reach me on my mail id:  yashd1272@gmail.com<br><br>
+<br>🌱 I’m currently learning SpringBoot and ReactJs<br><br>👋 I’m Front-end developer from India.<br><br>📫 Reach me on my mail id:  yashd1272@gmail.com<br><br>
 
 
 ## 🌐 Socials:
