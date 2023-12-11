@@ -1,3 +1,18 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/Yashd07/Yashd07">
+    <img src="https://i.pinimg.com/originals/57/39/f2/5739f2519fb033c5437ca8068e5847ad.gif" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">YASH DESAI</h3>
+
+  <p align="center">
+    Coding through the stars, fueled by passion and endless coffee. 🚀☕️✨
+    <br/>
+    <br/>
+  </p>
+</p>
+
 # 💫 About Me:
 <br>🌱 I’m currently learning SpringBoot and ReactJs<br><br>👋 I’m Front-end developer from India.<br><br>📫 Reach me on my mail id:  yashd1272@gmail.com<br><br>
 
